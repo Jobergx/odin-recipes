@@ -1,0 +1,26 @@
+img {
+    border-radius: 35px;
+    width: 640px;
+    max-height: 300px;
+    margin: 20px;
+    
+}
+.Description, .Ingredients, .Method{
+    display: flex;
+    background-color: rgb(226, 249, 249);
+    border: solid black 2px;
+    padding: 16px;
+    gap: 8px;
+    max-width: 600px;
+    margin: 20px;
+
+}
+
+.h1 {
+    
+    font-size: 24px;
+    text-align: center;
+    max-width: 600px;
+    
+    
+}
