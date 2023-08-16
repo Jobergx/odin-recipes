@@ -1,12 +1,15 @@
 img {
     border-radius: 35px;
-    width: 640px;
+    
     max-height: 300px;
     margin: 20px;
     
 }
+.flex-container {
+    display: flex; 
+ }
 .Description, .Ingredients, .Method{
-    display: flex;
+    
     background-color: rgb(226, 249, 249);
     border: solid black 2px;
     padding: 16px;

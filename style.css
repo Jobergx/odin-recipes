@@ -7,3 +7,16 @@
 li{
     margin: 20px;
 }
+img{
+    max-width: 300px;
+}
+.flex-container {
+    display: flex; 
+ }
+ div{
+    background-color: rgb(226, 249, 249);
+    border: solid black 2px;
+    flex: 1;
+    
+    margin: 20px;
+ }
